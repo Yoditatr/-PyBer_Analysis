@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-Overview of the analysis:
+### Overview of the analysis:
 
 ###### The purpose of this analysis is to identify key ride sharing metrics by type of city  and visualize the total weekly fares based on the city types which will help determine ride affordability  and improve access to ride sharing services.
 
