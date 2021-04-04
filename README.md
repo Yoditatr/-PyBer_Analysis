@@ -18,6 +18,8 @@
 ###### - Rural cities have the highest average fare per ride and driver.
 ###### - Urban cities have 2.5 more riders than suburban cities
 
+![alt text](https://github.com/Yoditatr/PyBer_Analysis/blob/main/Fig8.png?raw=true)
+
 ###### The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
 
 ### Summary:
