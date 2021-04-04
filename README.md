@@ -10,7 +10,7 @@
 ###### Based on city type, the data shows an overall direct relationship between total rides, total drivers, and total fares, and shows an inverse relationship for average fare per ride and per driver.
 
 ###### By reviewing the summary data we can conclude that there are several key findings among which few are listed below:
-![alt text](https://github.com/Yoditatr/PyBer_Analysis/blob/main/Summary%20data.PNG?raw=true
+![alt text](https://github.com/Yoditatr/PyBer_Analysis/blob/main/Summary%20data.PNG?raw=true)
 
 ###### - Urban cities have 4 times more drivers than suburban cities.
 ###### - Suburban cities have 6 times more drivers than rural with almost 4.5 times more revenue.
